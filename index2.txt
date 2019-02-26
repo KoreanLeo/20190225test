@@ -3,3 +3,4 @@ def
 reset-1 ghi
 reset -2jkl
 revert -3mno
+pqr
